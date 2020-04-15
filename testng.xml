@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAll">
+
+    <test name="testJenkins">
+        <classes>
+            <class name="DemoJenkinsJobs" />
+        </classes>
+    </test>
+
+</suite>
