@@ -7,10 +7,11 @@ public class DemoJenkinsJobs {
 
     @Test
     public  void testJenkins() throws Exception {
-//        System.out.println("Welcome to Jenkins...");
-//        driver = new ChromeDriver();
-//        driver.switchTo().window("");
-            returnWithoutFirstAndLastChar("hr");
+        System.out.println("Welcome to Jenkins...");
+        driver = new ChromeDriver();
+        driver.switchTo().window("");
+        System.out.println("hello...");
+           // returnWithoutFirstAndLastChar("hr");
      }
 
      public void returnWithoutFirstAndLastChar(String word) throws Exception {
