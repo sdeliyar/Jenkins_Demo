@@ -1,3 +1,4 @@
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
@@ -8,10 +9,14 @@ public class DemoJenkinsJobs {
     @Test
     public  void testJenkins() throws Exception {
         System.out.println("Welcome to Jenkins...");
+        WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
-        driver.switchTo().window("");
-        System.out.println("hello...");
+        driver.get("https://github.com/sdeliyar/Jenkins_Demo");
+        System.out.println("Github website opened...");
+        System.out.println("Test passed, this is Jenkins with Maven...");
            // returnWithoutFirstAndLastChar("hr");
+        driver.close();
+        driver.quit();
      }
 
      public void returnWithoutFirstAndLastChar(String word) throws Exception {
