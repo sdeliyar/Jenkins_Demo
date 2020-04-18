@@ -4,7 +4,6 @@
     <list default="true" id="09cffb5b-8436-4e7f-88d2-3a91e2ac382e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DemoJenkinsJobs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DemoJenkinsJobs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/DemoJenkinsJobs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DemoJenkinsJobs.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,22 +129,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="827" y="414" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586972406792" />
-    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1586988934536">
+    <state width="1221" height="282" key="GridCell.Tab.0.bottom" timestamp="1587230963294">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586988934536" />
-    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1586988934536">
+    <state width="1221" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587230963294" />
+    <state width="1221" height="282" key="GridCell.Tab.0.center" timestamp="1587230963294">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586988934536" />
-    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1586988934536">
+    <state width="1221" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587230963294" />
+    <state width="1221" height="282" key="GridCell.Tab.0.left" timestamp="1587230963294">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586988934536" />
-    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1586988934536">
+    <state width="1221" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587230963294" />
+    <state width="1221" height="282" key="GridCell.Tab.0.right" timestamp="1587230963294">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586988934536" />
+    <state width="1221" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587230963294" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1586924838397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -178,5 +177,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="746" y="421" key="git4idea.ui.GitStashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586980503179" />
+    <state x="342" y="223" key="new project wizard" timestamp="1587163203095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="223" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587163203095" />
   </component>
 </project>

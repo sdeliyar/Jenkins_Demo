@@ -12,7 +12,7 @@ public class DemoJenkinsJobs {
         WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
         driver.get("https://github.com/sdeliyar/Jenkins_Demo");
-        System.out.println("Github website opened...");
+        System.out.println(driver.getTitle());
         System.out.println("Test passed, this is Jenkins with Maven...");
            // returnWithoutFirstAndLastChar("hr");
         driver.close();
