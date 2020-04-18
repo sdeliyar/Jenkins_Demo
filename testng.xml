@@ -2,10 +2,10 @@
 
 <suite name="TestAll">
 
-    <test name="testJenkins">
-        <classes>
-            <class name="DemoJenkinsJobs" />
-        </classes>
+    <test name="all-tests">
+        <packages>
+            <package name=".*" />
+        </packages>
     </test>
 
 </suite>
