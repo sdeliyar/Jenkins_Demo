@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="09cffb5b-8436-4e7f-88d2-3a91e2ac382e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/DemoJenkinsJobs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DemoJenkinsJobs.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,18 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="TestNG.DemoJenkinsJobs">
+  <component name="RunManager" selected="TestNG.AnotherJenkinDemo">
+    <configuration name="AnotherJenkinDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Jenkins_Demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AnotherJenkinDemo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/KioskUser/IdeaProjects/Jenkins_Demo/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Jenkins_Demo" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -80,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AnotherJenkinDemo" />
         <item itemvalue="TestNG.DemoJenkinsJobs" />
         <item itemvalue="TestNG.DemoJenkinsJobs.testJenkins" />
         <item itemvalue="TestNG.C:/Users/KioskUser/IdeaProjects/Jenkins_Demo/testng.xml" />
@@ -129,22 +139,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="827" y="414" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586972406792" />
-    <state width="1221" height="282" key="GridCell.Tab.0.bottom" timestamp="1587230963294">
+    <state width="1219" height="282" key="GridCell.Tab.0.bottom" timestamp="1587232248487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1221" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587230963294" />
-    <state width="1221" height="282" key="GridCell.Tab.0.center" timestamp="1587230963294">
+    <state width="1219" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587232248487" />
+    <state width="1219" height="282" key="GridCell.Tab.0.center" timestamp="1587232248487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1221" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587230963294" />
-    <state width="1221" height="282" key="GridCell.Tab.0.left" timestamp="1587230963294">
+    <state width="1219" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587232248487" />
+    <state width="1219" height="282" key="GridCell.Tab.0.left" timestamp="1587232248487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1221" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587230963294" />
-    <state width="1221" height="282" key="GridCell.Tab.0.right" timestamp="1587230963294">
+    <state width="1219" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587232248487" />
+    <state width="1219" height="282" key="GridCell.Tab.0.right" timestamp="1587232248487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1221" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587230963294" />
+    <state width="1219" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587232248487" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1586924838397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
